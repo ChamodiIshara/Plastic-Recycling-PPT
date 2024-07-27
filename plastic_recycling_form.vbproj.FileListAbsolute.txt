@@ -1,0 +1,36 @@
+D:\project photose\plastic_recycling_form\plastic_recycling_form\bin\Debug\plastic_recycling_form.exe.config
+D:\project photose\plastic_recycling_form\plastic_recycling_form\bin\Debug\plastic_recycling_form.exe
+D:\project photose\plastic_recycling_form\plastic_recycling_form\bin\Debug\plastic_recycling_form.pdb
+D:\project photose\plastic_recycling_form\plastic_recycling_form\bin\Debug\plastic_recycling_form.xml
+D:\project photose\plastic_recycling_form\plastic_recycling_form\obj\Debug\plastic_recycling_form.Form1.resources
+D:\project photose\plastic_recycling_form\plastic_recycling_form\obj\Debug\plastic_recycling_form.Resources.resources
+D:\project photose\plastic_recycling_form\plastic_recycling_form\obj\Debug\plastic_recycling_form.vbproj.GenerateResource.Cache
+D:\project photose\plastic_recycling_form\plastic_recycling_form\obj\Debug\plastic_recycling_form.exe
+D:\project photose\plastic_recycling_form\plastic_recycling_form\obj\Debug\plastic_recycling_form.xml
+D:\project photose\plastic_recycling_form\plastic_recycling_form\obj\Debug\plastic_recycling_form.pdb
+D:\project photose\plastic_recycling_form\plastic_recycling_form\bin\Debug\plastic_recycling_form.exe.manifest
+D:\project photose\plastic_recycling_form\plastic_recycling_form\bin\Debug\plastic_recycling_form.application
+D:\project photose\plastic_recycling_form\plastic_recycling_form\obj\Debug\plastic_recycling_form.exe.manifest
+D:\project photose\plastic_recycling_form\plastic_recycling_form\obj\Debug\plastic_recycling_form.application
+D:\project photose\Project\plastic_recycling_form\plastic_recycling_form\bin\Debug\plastic_recycling_form.exe.config
+D:\project photose\Project\plastic_recycling_form\plastic_recycling_form\obj\Debug\plastic_recycling_form.exe
+D:\project photose\Project\plastic_recycling_form\plastic_recycling_form\obj\Debug\plastic_recycling_form.xml
+D:\project photose\Project\plastic_recycling_form\plastic_recycling_form\obj\Debug\plastic_recycling_form.pdb
+D:\project photose\Project\plastic_recycling_form\plastic_recycling_form\bin\Debug\plastic_recycling_form.exe.manifest
+D:\project photose\Project\plastic_recycling_form\plastic_recycling_form\bin\Debug\plastic_recycling_form.application
+D:\project photose\Project\plastic_recycling_form\plastic_recycling_form\bin\Debug\plastic_recycling_form.exe
+D:\project photose\Project\plastic_recycling_form\plastic_recycling_form\bin\Debug\plastic_recycling_form.pdb
+D:\project photose\Project\plastic_recycling_form\plastic_recycling_form\bin\Debug\plastic_recycling_form.xml
+D:\project photose\Project\plastic_recycling_form\plastic_recycling_form\obj\Debug\plastic_recycling_form.Form1.resources
+D:\project photose\Project\plastic_recycling_form\plastic_recycling_form\obj\Debug\plastic_recycling_form.Resources.resources
+D:\project photose\Project\plastic_recycling_form\plastic_recycling_form\obj\Debug\plastic_recycling_form.vbproj.GenerateResource.Cache
+D:\project photose\Project\plastic_recycling_form\plastic_recycling_form\obj\Debug\plastic_recycling_form.exe.manifest
+D:\project photose\Project\plastic_recycling_form\plastic_recycling_form\obj\Debug\plastic_recycling_form.application
+I:\RAT-IT-2021-F-0045 - Individual Project (1st sem)\plastic_recycling_form\plastic_recycling_form\bin\Debug\plastic_recycling_form.exe.config
+I:\RAT-IT-2021-F-0045 - Individual Project (1st sem)\plastic_recycling_form\plastic_recycling_form\obj\Debug\plastic_recycling_form.exe
+I:\RAT-IT-2021-F-0045 - Individual Project (1st sem)\plastic_recycling_form\plastic_recycling_form\obj\Debug\plastic_recycling_form.xml
+I:\RAT-IT-2021-F-0045 - Individual Project (1st sem)\plastic_recycling_form\plastic_recycling_form\obj\Debug\plastic_recycling_form.pdb
+H:\RAT-IT-2021-F-0045 - Individual Project (1st sem)\plastic_recycling_form\plastic_recycling_form\bin\Debug\plastic_recycling_form.exe.config
+H:\RAT-IT-2021-F-0045 - Individual Project (1st sem)\plastic_recycling_form\plastic_recycling_form\obj\Debug\plastic_recycling_form.exe
+H:\RAT-IT-2021-F-0045 - Individual Project (1st sem)\plastic_recycling_form\plastic_recycling_form\obj\Debug\plastic_recycling_form.xml
+H:\RAT-IT-2021-F-0045 - Individual Project (1st sem)\plastic_recycling_form\plastic_recycling_form\obj\Debug\plastic_recycling_form.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "plastic_recycling_form.vshost", "plastic_recycling_form.vshost.exe", "{798B670C-7A4B-47EC-BD3E-283DDC2596D8}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = I:\RAT-IT-2021-F-0045 - Individual Project (1st sem)\plastic_recycling_form\plastic_recycling_form\bin\Debug\plastic_recycling_form.vshost.exe
+		RemoteMachine = DESKTOP-F728DBC
+		StartingDirectory = I:\RAT-IT-2021-F-0045 - Individual Project (1st sem)\plastic_recycling_form\plastic_recycling_form\bin\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{798B670C-7A4B-47EC-BD3E-283DDC2596D8}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
